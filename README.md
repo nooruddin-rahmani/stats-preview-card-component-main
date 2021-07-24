@@ -23,8 +23,8 @@ Users should be able to:
 ![](./Screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontend mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+- Live Site URL: [netlify](https://stats-preview-card-component-card.netlify.app/)
 
 ## My process
 
@@ -41,5 +41,5 @@ Users should be able to:
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@nooruddin-rahmani](https://www.frontendmentor.io/profile/nooruddin-rahmani)
+- Twitter - [@Noorudd79181763](https://twitter.com/Noorudd79181763)
